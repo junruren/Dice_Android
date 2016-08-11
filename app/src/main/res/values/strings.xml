@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <!-- MainActivity -->
+    <string name="instruction">Choose the number of dices</string>
+    <string name="btRoll">Roll!!!</string>
+    <string name="textResult">Result:</string>
+</resources>
