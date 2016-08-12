@@ -12,5 +12,6 @@ Minimum SDK: API 21: Android 5.0. More information on [Run Apps on a Hardware De
 
 ### App Usage
 1. Select the number of dices you wish to toss.
-2. Click the "Roll!!" button
-3. The the result is shown immediately below in the format of "Dice Value(1-6): # of this value after tossing"
+2. Click the "Roll!!!" button
+3. A Toast message is shown to differentiate two rolls that may have the same result.
+4. The the result is shown immediately. The number of each dice value are shown after its corresponding dice face icon.
