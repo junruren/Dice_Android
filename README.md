@@ -1,7 +1,7 @@
 # Dice
 An Android App for tossing certain number of dices
 
-Created for the History Association SFLS people
+Created for my friends at SFLS History Association SFLS, easing the process of playing Axis&Allies, a WWII themed board game.
 
 ### Motivation
 This App is developed for situations like you need to toss many dices when, for example, playing a board game with friends.
