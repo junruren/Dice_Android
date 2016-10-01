@@ -1,5 +1,5 @@
 # Dice
-An easy Android App for tossing certain number of dices
+An Android App for tossing certain number of dices
 
 Created for the History Association SFLS people
 
